@@ -9,7 +9,7 @@ public class Sets {
 
 	public static void main(String[] args) {
 		// 1. define the collection
-			HashSet<String> animals = new TreeSet<String>();
+			HashSet<String> animals = new HashSet<String>();
 			//LinkedHash - in order they were entered - Stack
 			//Hash - complete random order
 			//TreeSet - natural order
